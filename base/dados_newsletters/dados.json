@@ -1,0 +1,95 @@
+{
+  "banners": {
+    "header": {
+      "href": "https://slmandic.edu.br/cursos/",
+      "src": "https://posmedmandic.com.br/newsletter-odonto/2025/10.out/22102025/header_600x300.png",
+      "alt": "Pós Odonto - São Leopoldo Mandic"
+    },
+    "simples_dental": {
+      "href": "https://app.simplesdental.com/simples/cadastro/?cupom=50OFFSLMandic&amp;utm_source=educacao&amp;utm_medium=email-newsletter-14-10&amp;utm_campaign=faculdade-sao-leopoldo-mandic",
+      "src": "https://posmedmandic.com.br/newsletter-odonto/2025/10.out/10102025/SD_SLM_Banner-Email.png",
+      "alt": "Simples Dental App"
+    },
+    "destaque": {
+      "href": "https://LINK_DO_CURSO_DESTAQUE.com",
+      "src": "https://URL_IMAGEM_DESTAQUE_600PX.png",
+      "alt": "Curso em Destaque"
+    },
+    "ultimas_vagas": {
+      "href": "https://slmandic.edu.br/cursos",
+      "src": "https://posmedmandic.com.br/newsletter-odonto/2025/10.out/22102025/ultimas_vagas_600x100.png",
+      "alt": "Últimas Vagas"
+    },
+    "iniciando_breve": {
+      "href": "https://slmandic.edu.br/cursos",
+      "src": "https://posmedmandic.com.br/newsletter-odonto/2025/10.out/22102025/Iniciando_em_breve_600x100.png",
+      "alt": "Iniciando em breve"
+    },
+    "novidades": {
+      "href": "https://slmandic.edu.br/cursos",
+      "src": "https://posmedmandic.com.br/newsletter-odonto/2025/10.out/22102025/Novidade_chegando_600x100.png",
+      "alt": "Novidades chegando"
+    },
+    "curta_duracao": {
+      "href": "https://LINK_DO_CURTA_DURACAO.com",
+      "src": "https://URL_IMAGEM_CURTA_DURACAO_600PX.png",
+      "alt": "Curso de Curta Duração"
+    },
+    "cta_footer": {
+      "href": "https://slmandic.edu.br/cursos",
+      "src": "https://posmedmandic.com.br/newsletter-odonto/2025/10.out/22102025/Footer_600x167.png",
+      "alt": "Fale conosco pelo WhatsApp"
+    }
+  },
+  "cursos_ultimas_vagas": [
+    {
+      "href": "https://LINK_DO_CURSO_1.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_1_200PX.png",
+      "alt": "Descrição do Curso 1"
+    },
+    {
+      "href": "https://LINK_DO_CURSO_2.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_2_200PX.png",
+      "alt": "Descrição do Curso 2"
+    },
+    {
+      "href": "https://LINK_DO_CURSO_3.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_3_200PX.png",
+      "alt": "Descrição do Curso 3"
+    }
+  ],
+  "cursos_iniciando_breve": [
+    {
+      "href": "https://LINK_DO_CURSO_4.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_4_200PX.png",
+      "alt": "Descrição do Curso 4"
+    },
+    {
+      "href": "https://LINK_DO_CURSO_5.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_5_200PX.png",
+      "alt": "Descrição do Curso 5"
+    },
+    {
+      "href": "https://LINK_DO_CURSO_6.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_6_200PX.png",
+      "alt": "Descrição do Curso 6"
+    }
+  ],
+  "cursos_novidades": [
+    {
+      "href": "https://LINK_DO_CURSO_7.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_7_200PX.png",
+      "alt": "Descrição do Curso 7"
+    },
+    {
+      "href": "https://LINK_DO_CURSO_8.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_8_200PX.png",
+      "alt": "Descrição do Curso 8"
+    },
+    {
+      "href": "https://LINK_DO_CURSO_9.com",
+      "src": "https://URL_IMAGEM_FATIA_CURSO_9_200PX.png",
+      "alt": "Descrição do Curso 9"
+    }
+  ]
+}
